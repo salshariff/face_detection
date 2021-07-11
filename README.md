@@ -14,7 +14,6 @@ pip install opencv-python
 # "photo"
 We install xml, py and jpeg files
 
-### in terminal
 ```
 python face_detection.py
 ```
@@ -26,7 +25,6 @@ python face_detection.py
 
 We install xml, py and jpeg files
 
-## in terminal
 ```
 python face_detection_V.py
 ```
